@@ -3,7 +3,7 @@ package com.reactnative.googlecast;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.support.v4.graphics.drawable.DrawableCompat;
-import android.support.v7.app.MediaRouteButton;
+import androidx.mediarouter.app.MediaRouteButton;
 import android.util.AttributeSet;
 import android.view.View;
 
